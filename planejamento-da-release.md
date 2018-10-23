@@ -2,11 +2,9 @@
 
 ## Product Backlog
 
-Apresentar a técnica para levantar as Histórias de Usuário e suas prioridades
+https://github.com/marciorlcordeiro/nossas-ideias/blob/master/.gitbook/assets/Product%20Backlog.PNG
 
-## Roadmap
 
-Apresentar o sprint backlog
 
 
 
