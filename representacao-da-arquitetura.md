@@ -21,5 +21,6 @@ Explicar  as abstrações das camadas \(ou seja, cada camada e "explodir"\)
 
 ### Banco de Dados
 
+(.gitbook/assets/ER.png)
 
 
