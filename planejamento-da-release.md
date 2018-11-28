@@ -1,9 +1,6 @@
-# Planejamento da Release
+# Regras de Negócio
 
-## Product Backlog
-
-https://github.com/marciorlcordeiro/nossas-ideias/blob/master/.gitbook/assets/Product%20Backlog.PNG
-
+![regras](.gitbook/assets/regras_negocio.pdf)
 
 
 
