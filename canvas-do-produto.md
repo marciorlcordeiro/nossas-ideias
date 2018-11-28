@@ -1,7 +1,7 @@
 # Canvas do Produto
 
-![Canvas](.gitbook/assets/canvas_mvp.pdf)
+![Canvas](.gitbook/assets/canvas.png)
 
-![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/canvas_mvp.pdf)
+
 
 
