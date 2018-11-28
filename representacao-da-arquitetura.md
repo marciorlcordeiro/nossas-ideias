@@ -11,17 +11,15 @@ Explicar a lógica entre as camadas
 * C
 * D
 
-![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/image.png)
+![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/Arquitetura.jpg)
 
 Explicar  as abstrações das camadas \(ou seja, cada camada e "explodir"\)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-## Visão Lógica
 
-### Diagrama de Classes
 
 ### Banco de Dados
 
-###  
+
 
