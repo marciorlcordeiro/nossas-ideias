@@ -1,3 +1,3 @@
 # Canvas do Produto
 
-![](.gitbook/assets/canvas_mvp.pdf)
+![Canvas&#xE7;&#xE3;o](.gitbook/assets/canvas_mvp.pdf)
