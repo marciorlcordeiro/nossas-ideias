@@ -8,10 +8,6 @@ Na primeira camada, temos o front-and, aonde o mesmo solicita os dados ao servid
 
 ![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/Arquitetura.jpg)
 
-Explicar  as abstrações das camadas \(ou seja, cada camada e "explodir"\)
-
-![](.gitbook/assets/image%20%281%29.png)
-
 
 
 ### Banco de Dados
