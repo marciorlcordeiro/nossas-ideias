@@ -1,6 +1,6 @@
 # Regras de Negócio
 
-![regras](.gitbook/assets/regras_negocio.pdf)
+![regras](.gitbook/assets/regras_negocio.png)
 
 
 
