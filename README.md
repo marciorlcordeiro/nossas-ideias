@@ -8,7 +8,7 @@ Abaixo segue os documentos e artefatos elaborados para o Nossas Ideias.
 
 ## [Representação da Arquitetura](representacao-da-arquitetura.md) 
 
-## [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
+## [User Stories](user-stories.md)
 
 ## [Validação](validacao.md)
 
