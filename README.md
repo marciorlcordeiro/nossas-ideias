@@ -10,9 +10,9 @@ Abaixo segue os documentos e artefatos elaborados para o Nossas Ideias.
 
 ## [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
 
-## [Validação](testes.md)
+## [Validação](validacao.md)
 
-## [Benchmarking](postmortem.md)
+## [Benchmarking](benchmarking.md)
 
 
 
